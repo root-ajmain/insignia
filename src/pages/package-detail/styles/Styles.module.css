@@ -1,0 +1,23 @@
+.date__picker__input {
+  background-color: transparent !important;
+  outline: none !important;
+  position: absolute !important;
+  left: -6px !important;
+  bottom: 10px !important;
+  width: 265px !important;
+  height: 65px !important;
+  cursor: pointer !important;
+  caret-color: transparent;
+}
+
+@media screen and (min-width: 1024px) {
+  .date__picker__input {
+    width: 270px !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .date__picker__input {
+    width: 275px !important;
+  }
+}

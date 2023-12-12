@@ -1,0 +1,151 @@
+{
+    "packages": [{
+            "id": "1",
+            "title": "Parasailing at FunFest Beach",
+            "category": "regular",
+            "startingPrice": 2000,
+            "discountPrice": 1900,
+            "location": {
+                "name": "cox's bazar",
+                "country": "bangladesh",
+                "pickUpPoint": "himchari parasailing point",
+                "around": "inani beach, himchari national park",
+                "nearbyRestaurant": "coral station restaurant"
+            },
+            "overview": {
+                "description": "Ever dreamed of rising upwards, far from your everyday worries, to a place where the man-made sounds of the world are reduced to a murmur, and the only sounds are your own exclamations of wonder and the roar of the ocean? Parasailing at Dorianagar or Himchari is here to give you the most thrilling experience of Cox's Bazar. Enjoy the sea view in the eyes of a seagull while getting yourself lost in the breathtaking experience of parasailing. If you are willing to make your upcoming vacation at Cox's Bazar count, this has to be on your activity checklist!",
+                "steps": [
+                    "Select your preferred date",
+                    "Select number of travelers (Adults/Children)",
+                    "Select your preferred option.",
+                    "Proceed to payment"
+                ],
+                "NB": "Per head price will be lowest for maximum number of travelers."
+            },
+            "timing": {
+                "timeSlot": "Every day from 9:00 AM to 10:00 PM",
+                "duration": "7 minutes"
+            },
+            "inclusion": [
+                "Express Entry at Parasailing Point",
+                "Priority Service",
+                "Parasailing experience",
+                "Safety",
+                "Equipment",
+                "Experienced Life Guard"
+            ],
+            "exclusion": [
+                "Any kind of food or refreshment",
+                "Anything else that isn't mentioned in the Inclusions"
+            ],
+            "description": "Funfest beach is well known for parasailing. With an amazing view of the seaside in the eyes of a seagull, this breathtaking experience is all you need to overcome your fear and add an extra layer of thrill to your tour. This is done by a parachute with the help of a speedboat where you will be blown with the parachute and the rug of the parachute is tied in the speed boat. With an approximate fly time duration of 6-10 minutes, you will be able to witness the entire landscape from the massive height and enjoy the time of your life.",
+            "policy": {
+                "cancellation": [
+                    "To cancel any tour, an email has to be sent to tours@gozayaan.com mentioning the tour booking ID and details about the cancellation.",
+                    "The time of sending the email will be considered as the time of cancellation.",
+                    "The email will be considered as the final application for cancellation. A phone call to the Gozayaan hotline number or any other team member of Gozayaan will not be considered as a request for cancellation"
+                ],
+                "refund": [
+                    "Convenience fee is non-refundable and will be deducted from the paid amount.",
+                    "All refunds will be processed within seven (7) working days."
+                ]
+            },
+            "options": [{
+                "title": "delux",
+                "details": "Distance Covered: 2.5 KM; Duration: 5-6 Minutes of air time. The experience of soaking your feet in the deep sea and flying in the air again can be found in this service."
+            }, {
+                "title": "premium",
+                "details": "Distance covered: 2 KM; Duration: 5 Minutes of air time. The experience of only flying in the air can be found in this service."
+            }, {
+                "title": "regular",
+                "details": "Group Booking (Fun Parasailing)"
+            }],
+            "thumbnail": "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/tour/featured_pictures/4dabdda1-2f2b-438c-8e4d-65c4fc9e4c84.png",
+            "previews": [
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/c2368ef0-2b8a-400d-a064-1ba8b5cc012e.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/ee732e35-d840-49ad-94a8-de74769a0ee1.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/a628c003-1ff0-479f-a630-e0994163fa23.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/d34638e2-f564-4ac2-8574-0173f7eee1ad.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/2e817ad5-a5ea-4020-aaac-05de836346ab.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/72ea6c9f-ffa1-40f6-8c0c-ba012eeb49d3.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/c68d8b2d-4c6e-44ec-8d48-d374f6fc2814.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/a628c003-1ff0-479f-a630-e0994163fa23.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/2e817ad5-a5ea-4020-aaac-05de836346ab.JPG"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "himchori tour",
+            "category": "regular",
+            "startingPrice": 2000,
+            "discountPrice": 1900,
+            "location": {
+                "name": "cox's bazar",
+                "country": "bangladesh",
+                "pickUpPoint": "himchari parasailing point",
+                "around": "inani beach, himchari national park",
+                "nearbyRestaurant": "coral station restaurant"
+            },
+            "overview": {
+                "description": "Ever dreamed of rising upwards, far from your everyday worries, to a place where the man-made sounds of the world are reduced to a murmur, and the only sounds are your own exclamations of wonder and the roar of the ocean? Parasailing at Dorianagar or Himchari is here to give you the most thrilling experience of Cox's Bazar. Enjoy the sea view in the eyes of a seagull while getting yourself lost in the breathtaking experience of parasailing. If you are willing to make your upcoming vacation at Cox's Bazar count, this has to be on your activity checklist!",
+                "steps": [
+                    "Select your preferred date",
+                    "Select number of travelers (Adults/Children)",
+                    "Select your preferred option.",
+                    "Proceed to payment"
+                ],
+                "NB": "Per head price will be lowest for maximum number of travelers."
+            },
+            "timing": {
+                "timeSlot": "Every day from 9:00 AM to 10:00 PM",
+                "duration": "7 minutes"
+            },
+            "inclusion": [
+                "Express Entry at Parasailing Point",
+                "Priority Service",
+                "Parasailing experience",
+                "Safety",
+                "Equipment",
+                "Experienced Life Guard"
+            ],
+            "exclusion": [
+                "Any kind of food or refreshment",
+                "Anything else that isn't mentioned in the Inclusions"
+            ],
+            "description": "Funfest beach is well known for parasailing. With an amazing view of the seaside in the eyes of a seagull, this breathtaking experience is all you need to overcome your fear and add an extra layer of thrill to your tour. This is done by a parachute with the help of a speedboat where you will be blown with the parachute and the rug of the parachute is tied in the speed boat. With an approximate fly time duration of 6-10 minutes, you will be able to witness the entire landscape from the massive height and enjoy the time of your life.",
+            "policy": {
+                "cancellation": [
+                    "To cancel any tour, an email has to be sent to tours@gozayaan.com mentioning the tour booking ID and details about the cancellation.",
+                    "The time of sending the email will be considered as the time of cancellation.",
+                    "The email will be considered as the final application for cancellation. A phone call to the Gozayaan hotline number or any other team member of Gozayaan will not be considered as a request for cancellation"
+                ],
+                "refund": [
+                    "Convenience fee is non-refundable and will be deducted from the paid amount.",
+                    "All refunds will be processed within seven (7) working days."
+                ]
+            },
+            "options": [{
+                "title": "delux",
+                "details": "Distance Covered: 2.5 KM; Duration: 5-6 Minutes of air time. The experience of soaking your feet in the deep sea and flying in the air again can be found in this service."
+            }, {
+                "title": "premium",
+                "details": "Distance covered: 2 KM; Duration: 5 Minutes of air time. The experience of only flying in the air can be found in this service."
+            }, {
+                "title": "regular",
+                "details": "Group Booking (Fun Parasailing)"
+            }],
+            "thumbnail": "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/tour/featured_pictures/bf2847ec-38d1-4cdc-9ded-902938181c08.jpg",
+            "previews": [
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/c2368ef0-2b8a-400d-a064-1ba8b5cc012e.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/ee732e35-d840-49ad-94a8-de74769a0ee1.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/a628c003-1ff0-479f-a630-e0994163fa23.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/d34638e2-f564-4ac2-8574-0173f7eee1ad.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/2e817ad5-a5ea-4020-aaac-05de836346ab.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/72ea6c9f-ffa1-40f6-8c0c-ba012eeb49d3.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/c68d8b2d-4c6e-44ec-8d48-d374f6fc2814.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/a628c003-1ff0-479f-a630-e0994163fa23.JPG",
+                "https://gozayaan.sgp1.digitaloceanspaces.com/media/tour_management/pictures/upload/2e817ad5-a5ea-4020-aaac-05de836346ab.JPG"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;600;700&family=Karla:wght@300;400;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ul,
+  li,
+  ol {
+    list-style: revert;
+  }
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+  background-color: #ebf0f4;
+  font-family: "El Messiri", sans-serif;
+  font-family: "Karla", sans-serif;
+  box-sizing: border-box;
+}
+
+/* Custom box inner shadow for global */
+.card__inner__shadow {
+  -webkit-box-shadow: inset 1px 0px 28px -16px rgba(0, 0, 0, 1);
+  -moz-box-shadow: inset 1px 0px 28px -16px rgba(0, 0, 0, 1);
+  box-shadow: inset 1px 0px 28px -16px rgba(0, 0, 0, 1);
+}
+/* ................................... */
+
+/* Custom scrollbar style for global */
+/* For Webkit browsers (e.g., Chrome, Safari) */
+.custom__scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.custom__scrollbar::-webkit-scrollbar-track {
+  background-color: #ededed;
+}
+
+.custom__scrollbar::-webkit-scrollbar-thumb {
+  background-color: #c5c5c5;
+}
+
+.custom__scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #3937374d;
+}
+
+.custom__scrollbar::-webkit-scrollbar-track,
+.custom__scrollbar::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+}
+/* ................................... */
+
+/* input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #ffffff;
+  box-shadow: inset 0 0 20px 20px #23232300;
+} */
+
+/* Custom range input slider styles */
+.range-slider-ab .range-slider__range {
+  background:#1565c0 !important;
+  height: 6px !important;
+}
+
+.range-slider-ab .range-slider__thumb {
+  width: 16px !important;
+  height: 16px !important;
+  border-radius: 100%;
+  background: white !important;
+  border: 2px solid #1565c0 !important;
+}
+/* Custom range input slider styles */
